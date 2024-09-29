@@ -53,5 +53,5 @@ finally:
     output.release(): This line closes the video writer, saving the final video file and releasing the associated resources. Placing it within the finally block guarantees its execution, preventing incomplete or corrupted files.
     """
 
-    #C:\Users\Shweta Tyagi\Computer Vision Project outputs\Screen_Recording.mp4
+    # example of path - C:\Users\yourUsername\Computer Vision Project outputs\Screen_Recording.mp4
     
